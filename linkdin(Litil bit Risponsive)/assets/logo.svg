@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26" data-supported-dps="26x26" class="mercado-match" width="26" height="26" focusable="false">
+  <g>
+    <path d="M26 2v22a2 2 0 01-2 2H2a2 2 0 01-2-2V2a2 2 0 012-2h22a2 2 0 012 2zM8 10H4v12h4zm.25-4a2.19 2.19 0 00-2.18-2.2H6a2.2 2.2 0 000 4.4 2.19 2.19 0 002.25-2.13zM22 14.56c0-3.65-2.29-4.9-4.47-4.9a4.45 4.45 0 00-3.78 2.05h-.05V10H10v12h4v-6.53a2.26 2.26 0 011.93-2.55h.28c1.1 0 1.79.59 1.79 2.52V22h4z" fill="#0a66c2"/>
+  </g>
+</svg>
